@@ -1,0 +1,32 @@
+{
+    "generators": [
+        {
+            "id": 1,
+            "pictureUrl": "/images/cat-container-pic.jpg",
+            "title": "Meow meow",
+            "description": "A cat random picture generator (ITS CUTE)",
+            "pageUrl": "/pages/cat"
+        },
+        {
+            "id": 2,
+            "pictureUrl": "/images/dog-container-pic.jpg",
+            "title": "Dog",
+            "description": "Random dogs pictures! ... Have fun with the dog",
+            "pageUrl": "/pages/dog"
+        },
+        {
+            "id": 3,
+            "pictureUrl": "/images/plane.jpg",
+            "title": "Graph",
+            "description": "Graph for now",
+            "pageUrl": "/pages/graph"
+        },
+        {
+            "id": 4,
+            "pictureUrl": "/images/books.jpeg",
+            "title": "Books",
+            "description": "Find your favorite book, and get a bunch of informations about the book(author info, publish year, etc...)",
+            "pageUrl": "/pages/books"
+        }
+    ]
+}
