@@ -33,3 +33,10 @@ Used to generate a random dog picture. The page also contains 2 interactions wit
 
 ### Generator JSON
  - By putting the required fields in the json we can create a link from the header search bar and the home page to the new generator
+
+# Launch the project
+
+```
+npm install
+npm run dev
+```
